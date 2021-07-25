@@ -1,0 +1,15 @@
+h1 {
+  color: green;
+}
+h2 {
+  color: blue;
+}
+a {
+  color: red;
+}
+p {
+  color: rgb(0, 168, 246);
+}
+body {
+  background-color: rgba(36, 196, 129, 0.239);
+}
